@@ -1,0 +1,37 @@
+/*
+ *  Document   : themes.css
+ *  Author     : pixelcave
+ *  Description: The themes stylesheet of the template. The classes can be used to
+ *  alter the text, the background or the border color of an element individually
+ *
+ */
+
+/*
+=================================================================
+THEME DEFAULT
+=================================================================
+*/
+
+.themed-color-default {
+    color: #1ec1b8 !important;
+}
+
+.themed-border-default {
+    border-color: #1ec1b8 !important;
+}
+
+.themed-background-default {
+    background-color: #1ec1b8 !important;
+}
+
+.themed-color-dark-default {
+    color: #32323a !important;
+}
+
+.themed-border-dark-default {
+    border-color: #32323a !important;
+}
+
+.themed-background-dark-default {
+    background-color: #32323a !important;
+}
